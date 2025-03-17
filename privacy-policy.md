@@ -1,8 +1,8 @@
 # Privacy Policy
 
-## Last Updated: [Insert Date]
+## Last Updated: Monday, 17 March 2025
 
-Thank you for using [Your Extension Name] ("the Extension"). Your privacy is important to us. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information.
+Thank you for using docsBuddy ("the Extension"). Your privacy is important to us. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information.
 
 ## 1. Information We Collect
 
@@ -46,5 +46,5 @@ You can:
 We may update this Privacy Policy as needed. Any changes will be posted here with an updated "Last Updated" date.
 
 ## 8. Contact Us
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Email].
+If you have any questions about this Privacy Policy, please contact us at ridhauwu@gmail.com.
 
