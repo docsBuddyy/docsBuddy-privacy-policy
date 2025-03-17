@@ -1,6 +1,7 @@
 # Privacy Policy Repository
 
 This repository contains the privacy policy for our browser extension. The policy is available in both HTML and Markdown formats.
+[available here](https://docsbuddyy.github.io/docsBuddy-privacy-policy/)
 
 ## Files
 
